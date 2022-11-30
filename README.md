@@ -18,10 +18,11 @@ The purpose of EDA is to understand the data, discover trends and patterns, and 
   - Freq (Hz)
   - H1 (LIGO Hanford detector )
   - L1 (LIGO Livingston detector )
-- Visualize frequency of waves
+- Visualize frequency of waves  
+![image](https://user-images.githubusercontent.com/57043103/204921723-02ea57f3-ce6d-42c1-8351-1fc04e61eaa3.png)
 - Distributions
 
-# MODELS
+-  MODELS
 We are using 3 models and compare them and choose the model which has the best accuracy.
 The models we will be using are:
 - CNN
