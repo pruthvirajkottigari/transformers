@@ -1,4 +1,5 @@
-# CMPE-257 G2Net Detecting Continuous Gravitational Waves
+# CMPE-257 Transformers
+# G2Net Detecting Continuous Gravitational Waves
 
 # INTRODUCTION
 Gravitational waves are ripples in space which can be associated with events such as black holes and exploding stars when cataclysmic waves are detected. Humans can’t see these gravitational waves, but with the help of antennas such as LIGO (Laser Interferometer Gravitational-Wave), it can detect vibrations in the medium of space. The medium of space is something scientists are still researching to this day and could play an important role in telling us more about what is in the universe. 
