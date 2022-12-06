@@ -29,6 +29,7 @@ The models we will be using are:
 - CNN
 - LSTM
 - LGBM 
+- RNN
 
 # CONCLUSION
 Using this project we were able to detect gravitational waves. We tried using multiple models and see which model produced the best result.
